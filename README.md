@@ -1,1 +1,1 @@
-# monster-searcher
+# chore-bot
